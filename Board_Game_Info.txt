@@ -1,0 +1,11 @@
+GameID,Name,No.PLayers,Genre,Purchase_Date
+bg01,Catan,3‑4,Euro / Strategy,2023‑06‑12  
+bg02,Monopoly,2‑6,Family / Economic,2022‑11‑05  
+bg03,Risk,2‑6,Strategy / War,2023‑01‑20  
+bg05,Cluedo,3‑6,Mystery / Deduction,2022‑09‑18  
+bg06,Carcassonne,2‑5,Tile‑Laying / Euro,2023‑05‑10  
+bg07,Splendor,2‑4,Engine Building / Card Game,2023‑02‑08  
+bg08,Pandemic,2‑4,Cooperative / Crisis‑Management,2023‑04‑22  
+bg09,Azul,2‑4,Abstract / Pattern‑Building,2023‑07‑01  
+bg10,7 Wonders,2‑7,Card Drafting / Civilization,2023‑08‑14
+bg04,Caylus,2-5,Strategy,2025-12-26

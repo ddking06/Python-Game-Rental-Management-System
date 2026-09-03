@@ -1,0 +1,6 @@
+GameID,Rating,Comments
+Art01,4,Hilarious!
+bac02,2,Not exciting
+chs03,5,My favourite game of all time
+bg04,5,Very fun
+bg08,3,Game was boring

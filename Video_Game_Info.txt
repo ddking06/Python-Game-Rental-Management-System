@@ -1,0 +1,12 @@
+GameID,Name,Platform,Genre,PurchaseDate
+bot01,Breath of the Wild,Nintendo Switch,Action-Adventure,2025-07-01
+smo01,Super Mario Odyssey,Nintendo Switch,Platformer,2025-06-01
+gow01,God of War,PlayStation,Action / Hack & Slash,2025-05-01
+rdr02,Red Dead Redemption 2,PlayStation,Open-World / Action,2025-04-01
+tw301,The Witcher 3: Wild Hunt,PC,RPG,2025-06-15
+mcw01,Mario Kart Wii,Nintendo Wii,Racing,2025-03-01
+hzd01,Horizon Zero Dawn,PlayStation,Action-RPG,2025-02-15
+hal01,Halo: Combat Evolved,Xbox,FPS,2025-08-01
+pfm01,Persona 5 Royal,PlayStation,JRPG,2025-09-01
+eld01,Elden Ring,PC,Action-RPG / Soulslike,2025-05-20
+som01,Shadow of Mordor,PS4,RPG,2026-01-06
