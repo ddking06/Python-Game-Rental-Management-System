@@ -32,7 +32,6 @@ The application allows customers to search for games, rent and return games, sub
 - Matplotlib
 - ipywidgets
 - File Handling
-- Object-Oriented Programming
 - Data Visualisation
 
 ## Skills Demonstrated
